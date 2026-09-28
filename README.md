@@ -17,7 +17,7 @@ A collection of highly optimized algorithmic solutions and custom data structure
 *   **Concepts:** Graph Algorithms, Shortest Path, Priority Queues.
 *   **Description:** An advanced pathfinding solver using a modified Dijkstra's algorithm. It efficiently calculates optimal delivery routes across a graph of interconnected depots and cities, evaluating paths based on maximum throughput capabilities.
 
-### 4. Templated 2D Sparse Matrix (`templated-matrix`)
+### 4. Templated 2D Sparse Matrix (`templated-2d-matrix`)
 *   **Concepts:** Templates, Proxy Classes, Raw Array Manipulation, Operator Overloading.
 *   **Description:** A generic, memory-efficient 2D matrix class built around a 1D dynamically allocated raw array. It utilizes the Proxy Design Pattern to overload the double bracket `[][]` operator, ensuring safe and intuitive access to elements within user-defined coordinate bounds.
 
